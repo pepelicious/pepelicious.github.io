@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Resume - Start Bootstrap Theme</title>
+  <title>SJ Portfolio</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -112,6 +112,7 @@
           </div>
         </div>
     <hr class="m-1">
+    <hr class="m-1">
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
           <img src="/img/angel_pc.jpg">
@@ -125,7 +126,8 @@
             <span class="text-primary">November 2019 - December 2019</span>
           </div>
         </div>
-
+    <hr class="m-1">
+    <hr class="m-1">
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
 		            <img src="/img/thetour_pc.png">
@@ -137,7 +139,8 @@
             <span class="text-primary">July 2019 - August 2019</span>
           </div>
         </div>
-
+    <hr class="m-1">
+    <hr class="m-1">
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
 		  <img src="/img/modoowa_pc.png">
