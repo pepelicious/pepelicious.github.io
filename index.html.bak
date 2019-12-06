@@ -401,8 +401,8 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interests</h2>
-        <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-        <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+        <p>좋은 웹사이트를 만드는 것이 목표입니다. 좋은 웹 사이트란 웹 사이트의 목적에 맞는 필요한 요소만을 재료로 사용하여 직관적이며 빠르고, 모든 이들이 이용할 수 있는 것이라고 생각합니다. 좋은 결과물을 만들기위해 항상 제자리에 있지 않고 발전해 나가는 디자이너가 되기 위해 노력하고 있습니다. 그렇기 때문에 수 많은 웹 사이트를 접하고 코드를 분석하며 제 것으로 만드는 것을 즐깁니다. </p>
+        <p class="mb-0"><a href="http://www.todayhumor.co.kr/board/view.php?table=travel&no=10497" target="_blank">나의 남미 배낭여행기</a>,<a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=17202524" target="_blank">2018 오버워치 콘텐츠 어워드 입선(영상편집)</p>
       </div>
     </section>
 
@@ -410,34 +410,30 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
       <div class="w-100">
-        <h2 class="mb-5">Awards &amp; Certifications</h2>
+        <h2 class="mb-5">Resume & Certifications</h2>
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            Google Analytics Certified Developer</li>
+            동국대학교 사범대학 부속고등학교</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            Mobile Web Specialist - Google Certification</li>
+            경기대학교</li>
+          <li>
+          <i class="fa-li fa fa-trophy text-warning"></i>
+            해병대 중위 전역</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             1<sup>st</sup>
-            Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
+            company - LG전자 하이프라자 - 2015</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             2<sup>nd</sup>
-            Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
+            company - (주)직방 - 2016 ~ 2018</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-            Place - James Buchanan High School - Hackathon 2006</li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            3<sup>rd</sup>
-            Place - James Buchanan High School - Hackathon 2005</li>
+            3<sup>nd</sup>
+            Company - 비즈제주 - 2018 ~</li>
+
         </ul>
       </div>
     </section>
