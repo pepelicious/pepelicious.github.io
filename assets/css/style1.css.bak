@@ -550,20 +550,74 @@ body {
 /*section1------------------------------------------------------------------------*/
 
 #section1 {
-	overflow: hidden;
+	background: #777;
 	height: 100vh;
 }
 
 #section1 .left {
-	background-color: #E8E8E8;
+	background-color: #fff;
 	overflow:hidden;
 }
+
+#section1 .left .cmt1 {
+	width: 70%;
+	position: absolute;
+	bottom: 0;
+	top:-10%;
+	right: -10%;
+	margin: auto;
+	opacity: 0;
+	transition-delay: 1.2s;
+}
+#section1 .left .cmt1.show {
+	opacity: 1;
+	animation-name: fadeInUp;
+	animation-duration: 1s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 0.5s;
+}
+#section1 .left .cmt2 {
+	width: 60%;
+	position: absolute;
+	bottom: 0;
+	top:0;
+	left:5%;
+	margin: auto;
+	opacity: 0;
+	transition-delay: 0.9s;
+}
+#section1 .left .cmt2.show {
+	opacity: 1;
+	animation-name: fadeInUp;
+	animation-duration: 1s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 0.9s;
+}
+#section1 .left .cmt4 {
+	width: 25%;
+	position: absolute;
+	bottom: 15%;
+	right: 5%;
+	margin: auto;
+	opacity: 0;
+	transition-delay: 1.2s;
+}
+#section1 .left .cmt4.show {
+	opacity: 1;
+	animation-name: fadeInUp;
+	animation-duration: 1s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 1.2s;
+}
+
 
 #section1 .right {
 	background-color: #FFCF7B;
 }
-
-#section1 .right-head {
+#section8 .right-head {
 	opacity: 0;
 }
 
@@ -643,25 +697,6 @@ body {
 	animation-timing-function: ease;
 	animation-iteration-count: 1;
 	animation-delay: 0.7s;
-}
-
-#section1 .left img {
-	width: 100%;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	right: 0;
-	left: 0;
-	margin: auto;
-	opacity: 0;
-}
-
-#section1 .left img.show {
-	opacity: 1;
-	animation-name: pulse;
-	animation-duration: 0.5s;
-	animation-timing-function: ease;
-	animation-iteration-count: 1;
 }
 /*section2------------------------------------------------------------------------*/
 #section2 {
@@ -1085,7 +1120,7 @@ body {
 }
 
 #section5 .left {
-	background-color: #0F2035;
+	background-color: #534c5e;
 	overflow:hidden;
 }
 
