@@ -104,7 +104,7 @@
 		<div class="sub-main1">
 			
 			<span class="title">
-				<svg style="max-width:50px; transform:translate3d(-10%,20%,0);" version="1.1" xmlns="http://www.w3.org/2000/svg" version="1.1" id="layer2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+				<!--<svg style="max-width:50px; transform:translate3d(-10%,20%,0);" version="1.1" xmlns="http://www.w3.org/2000/svg" version="1.1" id="layer2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 35 54" style="enable-background:new 0 0 35 54;" xml:space="preserve">
 
 <g>
@@ -115,9 +115,9 @@
 	<polyline class="st4" points="14.4,24.9 17.8,28.7 21.7,25.4 	"/>
 	<ellipse class="st5" cx="17.8" cy="46.5" rx="6.8" ry="3"/>
 </g>
-</svg>
+</svg>-->
 				Skills
-				<svg style="max-width:50px; transform:translate3d(0%,20%,0);" version="1.1" xmlns="http://www.w3.org/2000/svg" version="1.1" id="layer2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+				<!--<svg style="max-width:50px; transform:translate3d(0%,20%,0);" version="1.1" xmlns="http://www.w3.org/2000/svg" version="1.1" id="layer2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 35 54" style="enable-background:new 0 0 35 54;" xml:space="preserve">
 
 <g>
@@ -128,15 +128,15 @@
 	<polyline class="st4" points="14.4,24.9 17.8,28.7 21.7,25.4 	"/>
 	<ellipse class="st5" cx="17.8" cy="46.5" rx="6.8" ry="3"/>
 </g>
-</svg>
+</svg>-->
 			</span>
 			
 		</div>
 		<div class="about1">
-			<h2> Kyoung Eun Yim</h2>
+			<h2>Seung Jun Park</h2>
 			<br>
 			<p> Welcome .
-			I’m UX/UI designer / Web Publisher Kyoung Eun Yim.
+			I’m UX/UI designer / Web Designer.
 			 </p>
 		</div>
 		</div>
@@ -146,7 +146,7 @@
    <div class="section-title wow fadeInUp">
     
    </div>
-   <article class="row">
+   <!--<article class="row">
      <ul>
        <li class="illustrator">
          <em>ILLUSTRATOR</em>
@@ -185,7 +185,7 @@
          </div>
        </li>
      </ul>
-   </article>
+   </article>-->
  	</div>
 	
 	</div>
