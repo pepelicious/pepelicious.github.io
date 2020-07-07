@@ -226,7 +226,7 @@
 	
 	<div class="section" id="section8">
 		<div class="left">		
-			<img class="yes" src="assets/img/yes24.png">
+			<img class="yes" src="assets/img/joa.png">
 		</div>
 		<div class="right">
 			<div class="right-head">
@@ -234,11 +234,11 @@
 			</div>
 			<div class="right-container">
 				<div class="right-title">
-					<h4 class="title">YES24<br>UI RENEWAL</h4>
+					<h4 class="title">조아렌트카<br>Mobile UI RENEWAL</h4>
 					<h5></h5>
 					<div class="line"></div>
-					<p>YES 24 모바일 어플리케이션 UI를 개선하여 보다 편리하게 도서서치와 구매가 가능하도록 디자인 하였습니다.</p>
-					<button class="view"><a href="yes24.html" class="dddddy">VIEW DETAIL</a></button>
+					<p>렌트카 예약 모바일페이지 UI를 개선하여 보다 편리하게 렌트카 서치와 예약이 가능하도록 디자인 하였습니다. 렌트카 업체의 아이덴티티를 아이소메트릭 일러스트로 표현하였습니다.</p>
+					<button class="view"><a href="https://www.joarent.com/" class="dddddy">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div>
