@@ -142,6 +142,7 @@ body {
 	position:absolute;
 	top:2em;
 	left:2em;
+	width:150px;
 }
 .menu-box {
 	display:block;

@@ -1125,7 +1125,7 @@ body {
 }
 
 #section5 .right {
-	background-color: #374459;
+	background-color: #e60144;
 }
 
 #section5 .right-head {
