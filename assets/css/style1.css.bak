@@ -989,7 +989,7 @@ body {
 }
 
 #section4 .left {
-	background-color: #DCFFF0;
+	background-color: #e34632;
 	overflow:hidden;
 }
 
