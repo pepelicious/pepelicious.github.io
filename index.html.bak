@@ -102,21 +102,21 @@
 		
 		<div class="section" id="section1">
 			<div class="left">
-			<img class="cmt1" src="assets/img/ogada_main.png">
-			<img class="cmt2" src="assets/img/ogada_sub1.png">
-			<img class="cmt4" src="assets/img/ogada_comp.png">
+			<img class="cmt1" src="assets/img/kaka_main.png">
+			<img class="cmt2" src="assets/img/kaka_sub1.png">
+			<img class="cmt4" src="assets/img/kaka_comp.png">
 			</div>
 			<div class="right">
 				<div class="right-head">
-					<h3>WEBSITE DESIGN</h3>
+					<h3>WEBSITE/Mobile WEB RE-DESIGN</h3>
 				</div>
 				<div class="right-container">
 					<div class="right-title">
-						<h4 class="title">제주오가다투어<br>제주도 실시간렌트카 가격비교</h4>
-						<h5>UI/UX Design, CI Design</h5>
+						<h4 class="title">제주카카<br>제주도 할인렌트카 웹/모바일 리디자인</h4>
+						<h5>Role : 웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 						<div class="line"></div>
-						<p>렌트카 예약시 중점적으로 사용하는 기능이 직관적으로 나타나도록 기획하여 디자인 하였습니다. 반응형 웹사이트를 의뢰하지 않은 클라이언트로 조건검색 영역까지 저해상도에서도 노출될 수 있도록 제작하였습니다. </p>
-						<button class="view"><a href="http://ogada.bizjeju.co.kr/" class="dddddy">VIEW DETAIL</a></button>
+						<p>Summary : 렌트카 예약시 중점적으로 사용하는 기능이 직관적으로 나타나도록 구성 하였습니다. 데이트피커 영역과 차량 썸네일 영역과 같은 예약에 필수적인 곳을 중심으로 리디자인 하였습니다.</p>
+						<button class="view"><a href="http://www.jejukaka.co.kr/" class="dddddy">VIEW DETAIL</a></button>
 
 					</div>
 				</div>
@@ -132,15 +132,15 @@
 
 			<div class="right">
 				<div class="right-head">
-					<h3>UX.UI DESIGN</h3>
+					<h3>APP UI/UX DESIGN</h3>
 				</div>
 				<div class="right-container">
 
 					<div class="right-title">
 						<h4 class="title">전남바다알리미<br>ADMIN APPLICATION</h4>
-						<h5>양식장 관리자 어플리케이션</h5>
+						<h5>Role : 양식장 관리자 어플리케이션 이미지, 아이콘 제작 / 앱 UI 디자인</h5>
 						<div class="line"></div>
-						<p>양식장 지역별, 날씨와 조수 위젯과 도식을 사용자가 직관적으로 알아 볼 수 있도록 디자인 하였습니다. </p>
+						<p>Summary : 양식장 지역별, 날씨와 조수 위젯과 도식을 사용자가 직관적으로 알아 볼 수 있도록 디자인 하였습니다. </p>
 						<button class="view"><a href="#" class="dddddy">VIEW DETAIL</a></button>
 					</div>
 				</div>
