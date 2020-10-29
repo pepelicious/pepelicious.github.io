@@ -116,7 +116,7 @@
 						<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 						<div class="line"></div>
 						<p>Summary<br>렌트카 예약시 중점적으로 사용하는 기능이 직관적으로 나타나도록 구성 하였습니다. 데이트피커 영역과 차량 썸네일 영역과 같은 예약에 필수적인 곳을 중심으로 리디자인 하였습니다.</p>
-						<button class="view"><a href="http://www.jejukaka.co.kr/" class="dddddy">VIEW DETAIL</a></button>
+						<button class="view"><a href="http://www.jejukaka.co.kr/" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 
 					</div>
 				</div>
@@ -141,7 +141,7 @@
 						<h5>Role<br>양식장 관리자 어플리케이션 이미지, 아이콘 제작 / 앱 UI 디자인</h5>
 						<div class="line"></div>
 						<p>Summary<br>양식장 지역별, 날씨와 조수 위젯과 도식을 사용자가 직관적으로 알아 볼 수 있도록 디자인 하였습니다. </p>
-						<button class="view"><a href="#" class="dddddy">VIEW DETAIL</a></button>
+						<button class="view"><a href="#" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 					</div>
 				</div>
 			</div> 
@@ -166,7 +166,7 @@
 						<h5>Role<br>모바일 웹 UI/UX 디자인, 와이어 프레임 구성 / 버튼, 아이콘 제작</h5>
 						<div class="line"></div>
 						<p>Summary<br>사명 변경으로 신규 로고를 토대로한 색상과 간편한 렌터카 예약 UI가 부각되도록 리뉴얼을 진행하였으며, 웹과 모바일에서 동일한 뎁스가 나타나도록 리디자인 하였습니다. </p>		
-						<button class="view"><a href="http://www.jejuangeltour.com/" class="dddddy">VIEW DETAIL</a></button>
+						<button class="view"><a href="http://www.jejuangeltour.com/" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 					</div>
 				</div>
 			</div> 
@@ -192,7 +192,7 @@
 					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 					<div class="line"></div>
 					<p>Summary<br>해당 박람회의 리플렛으로 사용이 가능하도록 디자인하였으며 박람회 참여 기업과 바이어를 매칭하는 시스템의 UI단을 디자인 했습니다. </p>
-					<button class="view"><a href="http://www.jejucosfair.co.kr/" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="http://www.jejucosfair.co.kr/" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div> 
@@ -215,7 +215,7 @@
 					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 					<div class="line"></div>
 					<p>Summary<br>제주도 웹사이트 제작 및 유지보수 업체로 작업이력과 견적문의에 대한 접근성이 높도록 제작하였습니다.</p>
-					<button class="view"><a href="https://bizjeju.com/" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="https://bizjeju.com/" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 
 				</div>
 			</div>
@@ -238,7 +238,7 @@
 					<h5>Role<br>모바일 웹 UI/UX 디자인, 와이어 프레임 구성 / 버튼, 아이콘 제작</h5>
 					<div class="line"></div>
 					<p>Summary<br>렌트카 예약 모바일페이지 UI를 개선하여 보다 편리하게 렌트카 서치와 예약이 가능하도록 디자인 하였습니다. 렌트카 업체의 아이덴티티를 아이소메트릭 일러스트로 표현하였습니다.</p>
-					<button class="view"><a href="https://www.joarent.com/" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="https://www.joarent.com/" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div>
@@ -261,7 +261,7 @@
 					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 					<div class="line"></div>
 					<p>Summary<br>심플하고 직관적인 디자인으로서 일본 렌트카 전문 브랜드 아이덴티티가 돋보이도록 웹사이트 리뉴얼을 진행하였습니다. </p>
-					<button class="view"><a href="http://www.thessanrentcar.com/" class="dddddy">VIEW DETAIL</button>
+					<button class="view"><a href="http://www.thessanrentcar.com/" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div> 
@@ -285,7 +285,7 @@
 					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 					<div class="line"></div>
 					<p>Summary<br>여러 렌트카 업체의 차량정보 및 가격 API를 받아 가격비교 정렬방식으로 안내하는 실시간 가격비교 사이트입니다.<br>가격비교 및 예약까지 빠르게 처리되어야 하는 부분에 착안하여 가급적 디자인 요소보다 페이지별 예약스텝을 간소화하고 검색조건이나결과값이 뚜렷하게 나타나도록 구성했습니다. </p>
-					<button class="view"><a href="http://www.tamrado.kr" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="http://www.tamrado.kr" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div> 
@@ -308,7 +308,7 @@
 					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS </h5>
 					<div class="line"></div>
 					<p>Summary<br>네이버 스토어에서 수공예품을 판매하는 쇼핑몰 사이트 개편을 요청하였습니다.<br>기존 쇼핑몰 기능에 공방을 운영하는 점을 중점적으로 표현하고 DIY 커뮤니티 기능을 최대한 노출시킬 수 있도록 최소한의 프레임으로 구성했습니다.</p>
-					<button class="view"><a href="http://moiso.bizjeju.com/shop/">VIEW DETAIL</a></button>
+					<button class="view"><a href="http://moiso.bizjeju.com/shop/" target="_blank">VIEW DETAIL</a></button>
 					
 				</div>
 			</div>
@@ -330,8 +330,8 @@
 					<h5>현대카드 웹사이트 코딩</h5>
 					<div class="line"></div>
 					<p>HTML / CSS 를 이용하여 웹페이지를 코딩하였습니다.</p>
-					<button class="view"><a href="card.html" class="dddddy">VIEW DETAIL</a></button>
-					<button class="view"><a href="../webstandard/card/index.html" class="dddddy">VISIT SITE</a></button>
+					<button class="view"><a href="card.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
+					<button class="view"><a href="../webstandard/card/index.html" class="dddddy" >VISIT SITE</a></button>
 				</div>
 			</div>
 		</div> 
@@ -352,7 +352,7 @@
 					<h5>나무의 울림으로 소리가 증폭되는 스피커</h5>
 					<div class="line"></div>
 					<p>현악기의 아름다운 곡선을 모티브로 스피커를 제작하였습니다.</p>
-					<button class="view"><a href="wood.html" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="wood.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 					
 				</div>
 			</div>
@@ -374,7 +374,7 @@
 					<h5>유아 걸음마를 도와주는 보행기 모델링</h5>
 					<div class="line"></div>
 					<p>아이들의 걸음마를 도울 수 있는 보행기 3D모델링 (Rhino) </p>
-					<button class="view"><a href="baby.html" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="baby.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div> 
@@ -395,7 +395,7 @@
 					<h5>국제기업가정신 프로그램 디자인팀 및 프로그램 진행 봉사자</h5>
 					<div class="line"></div>
 					<p>국제기업가정신 프로그램으로서 개발도상국을 대상으로 기업가정신 교육을 통해 발전기회를 제공하도록 하는 프로그램에 디자이너이자 봉사자로 참여하였습니다.</p>
-					<button class="view"><a href="get.html" class="dddddy">VIEW DETAIL</a></button>
+					<button class="view"><a href="get.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 					
 				</div>
 			</div>
