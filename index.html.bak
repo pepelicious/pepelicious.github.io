@@ -285,8 +285,7 @@
 					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS</h5>
 					<div class="line"></div>
 					<p>Summary<br>여러 렌트카 업체의 차량정보 및 가격 API를 받아 가격비교 정렬방식으로 안내하는 실시간 가격비교 사이트입니다.<br>가격비교 및 예약까지 빠르게 처리되어야 하는 부분에 착안하여 가급적 디자인 요소보다 페이지별 예약스텝을 간소화하고 검색조건이나결과값이 뚜렷하게 나타나도록 구성했습니다. </p>
-					<button class="view"><a href="webstandard.html" class="dddddy">VIEW DETAIL</a></button>
-					<button class="view"><a href="../webstandard/web/index.html" class="dddddy">VISIT SITE</a></button>
+					<button class="view"><a href="http://www.tamrado.kr" class="dddddy">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div> 
@@ -301,16 +300,15 @@
 		</div>
 		<div class="right">
 			<div class="right-head">
-				<h3>CODING</h3>
+				<h3>UI/UX DESIGN</h3>
 			</div>
 			<div class="right-container">
 				<div class="right-title">
-					<h4 class="title">RESPONSIVE WEBSTIE<br></h4>
-					<h5>디바이스별 호환이 가능하도록 반응형 웹 페이지를 제작하였습니다. </h5>
+					<h4 class="title">모이소<br>네이버 스토어 홈페이지 리뉴얼 개편<br></h4>
+					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS </h5>
 					<div class="line"></div>
-					<p>HTML / CSS 를 이용하여 웹페이지를 제작하였으며 Meadia Query를 사용하여 디바이스별 반응형이 되도록 코딩하였습니다.</p>
-					<button class="view"><a href="responsive.html">VIEW DETAIL</a></button>
-					<button class="view"><a href="../responsive/html5/index.html" class="dddddy">VISIT SITE</a></button>
+					<p>Summary<br>네이버 스토어에서 수공예품을 판매하는 쇼핑몰 사이트 개편을 요청하였습니다.<br>기존 쇼핑몰 기능에 공방을 운영하는 점을 중점적으로 표현하고 DIY 커뮤니티 기능을 최대한 노출시킬 수 있도록 최소한의 프레임으로 구성했습니다.</p>
+					<button class="view"><a href="http://moiso.bizjeju.com/shop/">VIEW DETAIL</a></button>
 					
 				</div>
 			</div>
