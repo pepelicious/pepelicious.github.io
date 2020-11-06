@@ -363,7 +363,7 @@
 		
 	<div class="section" id="section12">
 		<div class="left">		
-			<img class="baby" src="assets/img/babywalk_main.png">
+			<img class="baby" src="assets/img/yeonhee_main.png">
 		</div>
 		<div class="right">
 			<div class="right-head">
@@ -371,11 +371,11 @@
 			</div>
 			<div class="right-container">
 				<div class="right-title">
-					<h4 class="title">BABY WALK<br></h4>
-					<h5>유아 걸음마를 도와주는 보행기 모델링</h5>
+					<h4 class="title">연희네카시트<br>카시트 렌탈 웹사이트 UI리뉴얼</h4>
+					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS </h5>
 					<div class="line"></div>
-					<p>아이들의 걸음마를 도울 수 있는 보행기 3D모델링 (Rhino) </p>
-					<button class="view"><a href="baby.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
+					<p>Summary<br>제주도 유모차/카시트 대여업체 홈페이지 비주얼/UI리뉴얼 입니다.<br>헤더부터 푸터까지 일체감이 느껴지는 메인영역에 주요 메뉴들이 잘 부각할 수 있도록 디자인했습니다.</p>
+					<button class="view"><a href="#" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 				</div>
 			</div>
 		</div> 
@@ -384,7 +384,7 @@
 		
 	<div class="section" id="section13">
 		<div class="left">		
-			<img class="get" src="assets/img/get.png">
+			<img class="get" src="assets/img/kaka_real.png">
 		</div>
 		<div class="right">
 			<div class="right-head">
@@ -392,11 +392,11 @@
 			</div>
 			<div class="right-container">
 				<div class="right-title">
-					<h4 class="title">GET 2014<br>Global Entrepreneurship Training in South America 2014</h4>
-					<h5>국제기업가정신 프로그램 디자인팀 및 프로그램 진행 봉사자</h5>
+					<h4 class="title">제주카카<br>실시간 가격비교 사이트 신규 제작</h4>
+					<h5>Role<br>웹, 모바일 UI 디자인, 와이어프레임 제작 / HTML, CSS </h5>
 					<div class="line"></div>
-					<p>국제기업가정신 프로그램으로서 개발도상국을 대상으로 기업가정신 교육을 통해 발전기회를 제공하도록 하는 프로그램에 디자이너이자 봉사자로 참여하였습니다.</p>
-					<button class="view"><a href="get.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
+					<p>Summary<br>제주카카에서 제작 의뢰한 렌트카 실시간 가격비교 사이트 입니다.<br>기존 웹사이트 형식과는 다른 풀 프레임 사이즈에서 차량검색과 검색결과가 직관적으로 나타나도록 제작하였습니다.</p>
+					<button class="view"><a href="#" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 					
 				</div>
 			</div>
