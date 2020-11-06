@@ -341,19 +341,19 @@
 		
 	<div class="section" id="section11">
 		<div class="left">		
-			<img class="panel" src="assets/img/panel.jpg">
+			<img class="panel" src="assets/img/dnf.png">
 		</div>
 		<div class="right">
 			<div class="right-head">
-				<h3>PRODUCT DESIGN</h3>
+				<h3>Game UI DESIGN</h3>
 			</div>
 			<div class="right-container">
 				<div class="right-title">
-					<h4 class="title">SOUND X WOOD<br>WOODEN SPEAKER FOR IPHONE</h4>
-					<h5>나무의 울림으로 소리가 증폭되는 스피커</h5>
+					<h4 class="title">던전앤파이터<br>캐릭터 생성 UI 디자인</h4>
+					<h5>Role<br>GAME UI 디자인, 와이어프레임 제작 </h5>
 					<div class="line"></div>
-					<p>현악기의 아름다운 곡선을 모티브로 스피커를 제작하였습니다.</p>
-					<button class="view"><a href="wood.html" class="dddddy" target="_blank">VIEW DETAIL</a></button>
+					<p>Summary<br>네오플의 인기 RPG게임 던전앤파이터의 캐릭터 생성 UI 입니다.<br>현재의 UI가 신규/복귀 유저들로 하여금 캐릭터 생성에 대한 정보를 담고있지 않다고 판단하여 제작하였습니다.</p>
+					<button class="view"><a href="assets/dnf_portfolio.pdf" class="dddddy" target="_blank">VIEW DETAIL</a></button>
 					
 				</div>
 			</div>
